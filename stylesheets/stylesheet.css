@@ -10,3 +10,8 @@ h2 {
 	padding-bottom: 25px;
 	color: 	#001900;
 }
+
+img.medium {
+    height: 70%;
+    width: 70%;
+}
